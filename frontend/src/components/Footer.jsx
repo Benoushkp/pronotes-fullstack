@@ -6,7 +6,7 @@ export default function Footer() {
       <p className="footer-text"> An Archdeacon Web Creation</p>
       <div className="social-links" role="list" aria-label="Social media links">
         <a
-          href="https://github.com/your-github"
+          href="https://github.com/Benoushkp"
           target="_blank"
           rel="noreferrer"
           aria-label="GitHub"
@@ -27,7 +27,7 @@ export default function Footer() {
         </a>
 
         <a
-          href="https://linkedin.com/in/your-linkedin"
+          href="https://www.linkedin.com/in/benoush-valentine-f-965a27252"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
@@ -48,7 +48,7 @@ export default function Footer() {
         </a>
 
         <a
-          href="https://yourportfolio.com"
+          href="https://ben-portfolio-pi.vercel.app/"
           target="_blank"
           rel="noreferrer"
           aria-label="Portfolio"
