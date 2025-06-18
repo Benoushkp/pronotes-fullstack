@@ -8,8 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "react-scripts start",    
-    "serve": "serve -s build"
+    
   },
   "dependencies": {
     "axios": "^1.10.0",
